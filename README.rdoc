@@ -1,0 +1,3 @@
+== README
+
+This test project show problem of removal embedded mongoid models having embeds_one relation.
